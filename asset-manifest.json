@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/navbar-react-hook-practise/static/css/main.c35e1b0f.chunk.css",
+    "main.js": "/navbar-react-hook-practise/static/js/main.4d6e3d3e.chunk.js",
+    "main.js.map": "/navbar-react-hook-practise/static/js/main.4d6e3d3e.chunk.js.map",
+    "runtime-main.js": "/navbar-react-hook-practise/static/js/runtime-main.fe14302a.js",
+    "runtime-main.js.map": "/navbar-react-hook-practise/static/js/runtime-main.fe14302a.js.map",
+    "static/js/2.41d20619.chunk.js": "/navbar-react-hook-practise/static/js/2.41d20619.chunk.js",
+    "static/js/2.41d20619.chunk.js.map": "/navbar-react-hook-practise/static/js/2.41d20619.chunk.js.map",
+    "index.html": "/navbar-react-hook-practise/index.html",
+    "precache-manifest.1188f1d0cd32da362759034c10b82c9b.js": "/navbar-react-hook-practise/precache-manifest.1188f1d0cd32da362759034c10b82c9b.js",
+    "service-worker.js": "/navbar-react-hook-practise/service-worker.js",
+    "static/css/main.c35e1b0f.chunk.css.map": "/navbar-react-hook-practise/static/css/main.c35e1b0f.chunk.css.map",
+    "static/js/2.41d20619.chunk.js.LICENSE.txt": "/navbar-react-hook-practise/static/js/2.41d20619.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/navbar-react-hook-practise/static/media/logo.2bb7da65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe14302a.js",
+    "static/js/2.41d20619.chunk.js",
+    "static/css/main.c35e1b0f.chunk.css",
+    "static/js/main.4d6e3d3e.chunk.js"
+  ]
+}
